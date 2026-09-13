@@ -21,7 +21,6 @@ This project demonstrates the design, configuration, and verification of a corpo
 | **Accounts** | PC-Accounts-1 | FastEthernet0 | `192.168.40.2` | `255.255.255.128` | `192.168.40.1` |
 | **Accounts** | PC-Accounts-2 | FastEthernet0 | `192.168.40.3` | `255.255.255.128` | `192.168.40.1` |
 | **Accounts** | Printer-Accounts-2 | FastEthernet0 | `192.168.40.4` | `255.255.255.128` | `192.168.40.1` |
-
 | **Delivery** | PC-Delivery-1 | FastEthernet0 | `192.168.40.130` | `255.255.255.128` | `192.168.40.129` |
 | **Delivery** | PC-Delivery-2 | FastEthernet0 | `192.168.40.131` | `255.255.255.128` | `192.168.40.129` |
 | **Delivery** | Printer-Delivery-2 | FastEthernet0 | `192.168.40.132` | `255.255.255.128` | `192.168.40.129` |
